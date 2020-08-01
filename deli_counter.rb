@@ -1,2 +1,2 @@
-katz_deli = []
+var katz_deli = []
 
