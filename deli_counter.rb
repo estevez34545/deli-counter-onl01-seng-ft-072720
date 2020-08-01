@@ -1,4 +1,1 @@
-def 
-  katz_deli = []
-  
-end
+katz_deli = []
