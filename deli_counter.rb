@@ -1,1 +1,2 @@
-def 
+def katz_deli = []
+end
